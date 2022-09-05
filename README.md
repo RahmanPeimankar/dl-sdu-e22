@@ -1,6 +1,6 @@
 # Please Follow the Instruction Below to Run the Notebooks
 
-Lecture 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dl-sdu-e22/blob/master/Lecture%201/dl-1-introduction.ipynb)
+Lecture 1 - Time Series Analysis: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dl-sdu-e22/blob/master/Lecture%201/dl-1-introduction.ipynb)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RahmanPeimankar/dl-sdu-e22/master)
 
